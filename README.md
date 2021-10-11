@@ -7,3 +7,4 @@ Para ver, clique <a href="https://simoneguimaraes.github.io/relogio-analogico-da
 
 #
 Made with 💜 by Simone Guimarães
+
