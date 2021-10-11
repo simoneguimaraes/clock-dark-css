@@ -1,4 +1,4 @@
-# Relógio Analógico Dark
+# Relógio Analógico Dark Theme
 
 ### Relógio feito com CSS e design dark mode.
 
